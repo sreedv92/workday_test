@@ -1,0 +1,23 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "workday_test_git",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_alias": null,
+        "job_type": "standard",
+        "llfeed_token": "YvS1HnDidNypJwAufHQAyYFhJpfD3lPZ",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_path": "../Sreedivya/35119_test",
+        "snaplex_path": "cloud-dev"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
